@@ -22,3 +22,9 @@ yarn-error.log*
 
 # Additional
 .env.local
+
+# Default File Vue App
+AppV.vue
+HomeV.vue
+AboutV.vue
+HelloWorldV.vue
